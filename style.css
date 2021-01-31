@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+#register-div {
+    position: relative;
+    width: 25%;
+    height: 25%;
+    background-color: gray;
+}
