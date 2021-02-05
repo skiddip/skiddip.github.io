@@ -4,7 +4,10 @@ body {
 
 #register-div {
     position: relative;
-    width: 25px;
-    height: 25px;
+    width: 500px;
+    height: 500px;
     background-color: gray;
+    title-align: center;
+    right: 50%;
+    top: 50%;
 }
