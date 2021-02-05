@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 body {
     margin: 0;
 }
 
 #register-div {
     position: relative;
+    font-style: ;
     width: 500px;
     height: 500px;
     background-color: gray;
